@@ -1,4 +1,4 @@
-# Slim Twig Translation Extension
+# Slim Twig Translation
 
 This repository provides a twig extension class for the twig view parser. 
 The class adds a translate helper function  for the use in twig templates.
