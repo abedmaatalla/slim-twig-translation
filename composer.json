@@ -1,7 +1,7 @@
 {
   "name": "abedmaatalla/slim-twig-translation",
   "description": "Twig function for Illuminate\\Translation\\Translator in Slim framework",
-  "keywords": ["microframework", "slim", "twig", "illuminate", "translation"],
+  "keywords": ["microframework", "slim", "twig", "illuminate", "translation", "translate"],
   "homepage": "http://github.com/abedmaatalla/slim-twig-translation",
   "license": "MIT",
   "authors": [

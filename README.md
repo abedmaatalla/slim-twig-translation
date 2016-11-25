@@ -14,7 +14,7 @@ Create a composer.json file in your project root:
 ```json
 {
     "require": {
-        "abedmaatalla/slim-twig-translation": "dev-master"
+        "abedmaatalla/slim-twig-translation": "1.0.0"
     }
 }
 ```
