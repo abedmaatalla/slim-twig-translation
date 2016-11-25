@@ -40,6 +40,7 @@ Create new folder for langauges
 
 Set up your Tansloator 
 
+```php
 $container['translator'] = function ($c)
 {
   // Register the English translator 'en'
@@ -48,6 +49,7 @@ $container['translator'] = function ($c)
     $translator->setLocale('fr');
     return $translator;
 };
+```
 
 ### Slim
 
