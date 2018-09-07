@@ -62,7 +62,7 @@ $container['view'] = function ($c)
   $view = new \Slim\Views\Twig('../resources/views');
 
   // add translator functions to Twig
-  $view->addExtension(new \Pmt\Slim\Twig\Extension\TranslationExtension($c->translator));
+  $view->addExtension(new \abedmaatalla\Slim\Twig\Extension\TranslationExtension($c->translator));
 
 }
 ```
