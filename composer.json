@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Pmt\\Slim\\Twig\\Extension\\": "src"
+      "abedmaatalla\\Slim\\Twig\\Extension\\": "src"
     }
   }
 }
